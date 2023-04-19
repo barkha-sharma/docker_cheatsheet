@@ -87,7 +87,7 @@ docker ps -a
 
 | Command | Description |
 | -------- | -------- | 
-| docker ps | Check all containers|
+| docker ps | Check running containers|
 | docker ps -a | Check all containers|
 | docker start dockername| Start container | 
 | docker stop dockername| Stop container| 
